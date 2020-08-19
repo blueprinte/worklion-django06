@@ -1,2 +1,2 @@
-# worklion-django03
+# worklion-django06
 worklion practice sheet
